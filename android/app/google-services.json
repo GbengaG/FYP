@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "231774430356",
+    "firebase_url": "https://bike-theft-prevention-app-default-rtdb.firebaseio.com",
+    "project_id": "bike-theft-prevention-app",
+    "storage_bucket": "bike-theft-prevention-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231774430356:android:04236de02df4b671aac081",
+        "android_client_info": {
+          "package_name": "com.example.bike_theft_prevention"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuUMlXJyivjdYtkTNv6ujzp_abn4A1rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231774430356:android:c547cbffb078b4b7aac081",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuUMlXJyivjdYtkTNv6ujzp_abn4A1rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231774430356:android:ff815d1f673754d2aac081",
+        "android_client_info": {
+          "package_name": "com.example.theft_prevention_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuUMlXJyivjdYtkTNv6ujzp_abn4A1rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
